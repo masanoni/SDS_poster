@@ -1,0 +1,7 @@
+{
+  "name": "Trilingual MSDS Factory Assistant",
+  "description": "An assistant for chemical safety management that creates simplified, trilingual (Japanese, English, Vietnamese) MSDS summaries from PDFs or images for factory postings.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
